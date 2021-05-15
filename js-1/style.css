@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(15, 14, 14);
+  color: coral;
+  font-size: 25px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 10px;
+  padding: 10px;
+}
